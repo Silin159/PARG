@@ -1,5 +1,5 @@
 # PARG
-This is the code for paper [Paraphrase augmented task-oriented dialog generation](https://arxiv.org/abs/2004.07462).
+This is the code for paper [Paraphrase Augmented Task-Oriented Dialog Generation](https://arxiv.org/abs/2004.07462).
 
 If you use any source code or dataset included in this repo in your work, please cite this paper:
 
